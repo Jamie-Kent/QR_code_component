@@ -24,7 +24,7 @@ I was not provided with a Figma design therefore I had to do it by eye
 
 ### Screenshot
 
-![](2-3-2023_Bn1cL0GkeF.png)/screenshot.
+![](2-3-2023_Bn1cL0GkeF.png)
 
 ### Links
 
