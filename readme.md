@@ -28,7 +28,7 @@ I was not provided with a Figma design therefore I had to do it by eye
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://qr-code-component-62p.pages.dev/)
 
 ## My process
 
